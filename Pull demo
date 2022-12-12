@@ -1,0 +1,4 @@
+Selenium Standalo 3.141.59
+system.setproperty
+webdriver driver = new chromeDriver();
+diver.get();
